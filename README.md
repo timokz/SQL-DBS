@@ -1,5 +1,7 @@
 # DB-Project
- SQL Project with HTML, Bootstrap
+ SQL Project with
+ HTML, Bootstrap,PHP enabling CRUD from web
+ Java for mocking data, enabling .csv input 
 
 
 ## Idea
