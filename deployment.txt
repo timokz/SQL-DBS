@@ -1,0 +1,10 @@
+DEPLOYMENT
+
+--to configure the input of data from .csv(s) via the java application, the files path has to be corrected
+  to the current dir, the csv(s) are contained in the java src dir
+
+--Simple Interface for reading and truncating table data is served via the Java main, 
+  best suited for large amounts of data, that can easily be configured by changing the .csv(s)
+
+--php(s) should run by its own, but certain IDEs might want to cache the bootstrap imports.
+  Idea: enables more specific interaction with data

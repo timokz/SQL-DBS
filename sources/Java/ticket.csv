@@ -1,0 +1,750 @@
+1,disabled
+2,reservation
+3,reservation
+4,reservation
+5,disabled
+6,reservation
+7,choice of seat
+8,choice of seat
+9,disabled
+10,reservation
+11,reservation
+12,reservation
+13,choice of seat
+14,reservation
+15,reservation
+16,choice of seat
+17,reservation
+18,reservation
+19,reservation
+20,reservation
+21,reservation
+22,reservation
+23,choice of seat
+24,reservation
+25,reservation
+26,reservation
+27,reservation
+28,disabled
+29,reservation
+30,reservation
+31,reservation
+32,reservation
+33,reservation
+34,reservation
+35,reservation
+36,disabled
+37,choice of seat
+38,choice of seat
+39,choice of seat
+40,reservation
+41,choice of seat
+42,reservation
+43,reservation
+44,choice of seat
+45,reservation
+46,reservation
+47,reservation
+48,disabled
+49,choice of seat
+50,reservation
+51,reservation
+52,choice of seat
+53,disabled
+54,reservation
+55,reservation
+56,reservation
+57,reservation
+58,reservation
+59,choice of seat
+60,reservation
+61,choice of seat
+62,reservation
+63,reservation
+64,reservation
+65,reservation
+66,reservation
+67,choice of seat
+68,reservation
+69,reservation
+70,choice of seat
+71,choice of seat
+72,choice of seat
+73,disabled
+74,choice of seat
+75,reservation
+76,reservation
+77,reservation
+78,disabled
+79,reservation
+80,choice of seat
+81,choice of seat
+82,choice of seat
+83,choice of seat
+84,disabled
+85,reservation
+86,reservation
+87,choice of seat
+88,reservation
+89,reservation
+90,choice of seat
+91,reservation
+92,reservation
+93,reservation
+94,choice of seat
+95,choice of seat
+96,disabled
+97,reservation
+98,reservation
+99,reservation
+100,reservation
+101,choice of seat
+102,reservation
+103,reservation
+104,disabled
+105,reservation
+106,reservation
+107,reservation
+108,disabled
+109,reservation
+110,choice of seat
+111,choice of seat
+112,choice of seat
+113,choice of seat
+114,reservation
+115,reservation
+116,disabled
+117,reservation
+118,reservation
+119,reservation
+120,reservation
+121,choice of seat
+122,reservation
+123,choice of seat
+124,reservation
+125,choice of seat
+126,reservation
+127,disabled
+128,disabled
+129,choice of seat
+130,disabled
+131,choice of seat
+132,reservation
+133,reservation
+134,reservation
+135,reservation
+136,reservation
+137,choice of seat
+138,reservation
+139,reservation
+140,choice of seat
+141,choice of seat
+142,reservation
+143,reservation
+144,reservation
+145,reservation
+146,disabled
+147,reservation
+148,reservation
+149,choice of seat
+150,reservation
+151,disabled
+152,reservation
+153,choice of seat
+154,disabled
+155,reservation
+156,reservation
+157,reservation
+158,reservation
+159,reservation
+160,reservation
+161,choice of seat
+162,choice of seat
+163,choice of seat
+164,choice of seat
+165,reservation
+166,reservation
+167,reservation
+168,reservation
+169,reservation
+170,choice of seat
+171,choice of seat
+172,disabled
+173,choice of seat
+174,choice of seat
+175,disabled
+176,reservation
+177,choice of seat
+178,reservation
+179,choice of seat
+180,choice of seat
+181,disabled
+182,disabled
+183,choice of seat
+184,reservation
+185,choice of seat
+186,choice of seat
+187,choice of seat
+188,reservation
+189,reservation
+190,choice of seat
+191,choice of seat
+192,reservation
+193,disabled
+194,reservation
+195,choice of seat
+196,choice of seat
+197,reservation
+198,choice of seat
+199,reservation
+200,reservation
+201,choice of seat
+202,reservation
+203,reservation
+204,choice of seat
+205,reservation
+206,choice of seat
+207,choice of seat
+208,reservation
+209,reservation
+210,reservation
+211,disabled
+212,reservation
+213,reservation
+214,reservation
+215,choice of seat
+216,disabled
+217,reservation
+218,reservation
+219,choice of seat
+220,reservation
+221,reservation
+222,choice of seat
+223,reservation
+224,reservation
+225,disabled
+226,choice of seat
+227,reservation
+228,reservation
+229,choice of seat
+230,choice of seat
+231,choice of seat
+232,reservation
+233,reservation
+234,choice of seat
+235,reservation
+236,choice of seat
+237,disabled
+238,choice of seat
+239,choice of seat
+240,reservation
+241,choice of seat
+242,disabled
+243,choice of seat
+244,choice of seat
+245,choice of seat
+246,reservation
+247,reservation
+248,reservation
+249,reservation
+250,reservation
+251,reservation
+252,reservation
+253,choice of seat
+254,choice of seat
+255,reservation
+256,reservation
+257,reservation
+258,choice of seat
+259,choice of seat
+260,choice of seat
+261,reservation
+262,reservation
+263,choice of seat
+264,reservation
+265,reservation
+266,reservation
+267,disabled
+268,reservation
+269,reservation
+270,reservation
+271,choice of seat
+272,reservation
+273,reservation
+274,choice of seat
+275,reservation
+276,reservation
+277,choice of seat
+278,choice of seat
+279,reservation
+280,reservation
+281,reservation
+282,disabled
+283,reservation
+284,reservation
+285,disabled
+286,reservation
+287,reservation
+288,reservation
+289,reservation
+290,reservation
+291,choice of seat
+292,choice of seat
+293,reservation
+294,reservation
+295,reservation
+296,reservation
+297,disabled
+298,reservation
+299,choice of seat
+300,disabled
+301,choice of seat
+302,reservation
+303,reservation
+304,reservation
+305,reservation
+306,choice of seat
+307,disabled
+308,reservation
+309,reservation
+310,choice of seat
+311,reservation
+312,choice of seat
+313,reservation
+314,reservation
+315,reservation
+316,reservation
+317,reservation
+318,disabled
+319,choice of seat
+320,reservation
+321,choice of seat
+322,reservation
+323,reservation
+324,reservation
+325,disabled
+326,reservation
+327,reservation
+328,reservation
+329,choice of seat
+330,reservation
+331,reservation
+332,reservation
+333,disabled
+334,choice of seat
+335,reservation
+336,choice of seat
+337,reservation
+338,disabled
+339,choice of seat
+340,reservation
+341,choice of seat
+342,choice of seat
+343,reservation
+344,choice of seat
+345,reservation
+346,reservation
+347,reservation
+348,reservation
+349,reservation
+350,reservation
+351,choice of seat
+352,disabled
+353,reservation
+354,reservation
+355,choice of seat
+356,choice of seat
+357,choice of seat
+358,reservation
+359,reservation
+360,choice of seat
+361,reservation
+362,choice of seat
+363,choice of seat
+364,reservation
+365,choice of seat
+366,choice of seat
+367,reservation
+368,choice of seat
+369,reservation
+370,reservation
+371,reservation
+372,choice of seat
+373,reservation
+374,reservation
+375,reservation
+376,reservation
+377,choice of seat
+378,reservation
+379,reservation
+380,choice of seat
+381,reservation
+382,reservation
+383,reservation
+384,choice of seat
+385,choice of seat
+386,disabled
+387,disabled
+388,choice of seat
+389,choice of seat
+390,choice of seat
+391,choice of seat
+392,choice of seat
+393,choice of seat
+394,reservation
+395,choice of seat
+396,disabled
+397,reservation
+398,reservation
+399,choice of seat
+400,reservation
+401,choice of seat
+402,reservation
+403,reservation
+404,reservation
+405,choice of seat
+406,choice of seat
+407,reservation
+408,choice of seat
+409,reservation
+410,reservation
+411,reservation
+412,choice of seat
+413,reservation
+414,disabled
+415,reservation
+416,reservation
+417,reservation
+418,choice of seat
+419,reservation
+420,reservation
+421,reservation
+422,reservation
+423,choice of seat
+424,choice of seat
+425,choice of seat
+426,reservation
+427,disabled
+428,reservation
+429,reservation
+430,reservation
+431,choice of seat
+432,reservation
+433,reservation
+434,reservation
+435,choice of seat
+436,reservation
+437,reservation
+438,reservation
+439,reservation
+440,reservation
+441,reservation
+442,reservation
+443,choice of seat
+444,disabled
+445,reservation
+446,disabled
+447,choice of seat
+448,reservation
+449,reservation
+450,reservation
+451,choice of seat
+452,reservation
+453,reservation
+454,choice of seat
+455,choice of seat
+456,reservation
+457,reservation
+458,reservation
+459,reservation
+460,reservation
+461,choice of seat
+462,choice of seat
+463,reservation
+464,reservation
+465,reservation
+466,reservation
+467,reservation
+468,choice of seat
+469,choice of seat
+470,reservation
+471,reservation
+472,reservation
+473,reservation
+474,reservation
+475,reservation
+476,choice of seat
+477,reservation
+478,reservation
+479,choice of seat
+480,reservation
+481,choice of seat
+482,reservation
+483,reservation
+484,reservation
+485,disabled
+486,reservation
+487,reservation
+488,reservation
+489,reservation
+490,choice of seat
+491,reservation
+492,choice of seat
+493,disabled
+494,disabled
+495,choice of seat
+496,choice of seat
+497,reservation
+498,disabled
+499,choice of seat
+500,reservation
+501,disabled
+502,reservation
+503,reservation
+504,choice of seat
+505,reservation
+506,choice of seat
+507,reservation
+508,reservation
+509,reservation
+510,choice of seat
+511,choice of seat
+512,reservation
+513,reservation
+514,choice of seat
+515,reservation
+516,disabled
+517,reservation
+518,reservation
+519,choice of seat
+520,disabled
+521,disabled
+522,reservation
+523,choice of seat
+524,disabled
+525,reservation
+526,reservation
+527,choice of seat
+528,disabled
+529,choice of seat
+530,choice of seat
+531,reservation
+532,choice of seat
+533,reservation
+534,choice of seat
+535,choice of seat
+536,reservation
+537,choice of seat
+538,choice of seat
+539,reservation
+540,disabled
+541,reservation
+542,reservation
+543,reservation
+544,reservation
+545,reservation
+546,choice of seat
+547,reservation
+548,reservation
+549,reservation
+550,choice of seat
+551,reservation
+552,reservation
+553,reservation
+554,reservation
+555,choice of seat
+556,reservation
+557,disabled
+558,reservation
+559,reservation
+560,reservation
+561,choice of seat
+562,reservation
+563,choice of seat
+564,choice of seat
+565,choice of seat
+566,reservation
+567,choice of seat
+568,reservation
+569,choice of seat
+570,choice of seat
+571,disabled
+572,choice of seat
+573,reservation
+574,disabled
+575,disabled
+576,reservation
+577,reservation
+578,reservation
+579,reservation
+580,reservation
+581,reservation
+582,choice of seat
+583,choice of seat
+584,reservation
+585,choice of seat
+586,reservation
+587,reservation
+588,disabled
+589,reservation
+590,reservation
+591,reservation
+592,reservation
+593,choice of seat
+594,choice of seat
+595,disabled
+596,choice of seat
+597,reservation
+598,reservation
+599,reservation
+600,reservation
+601,reservation
+602,reservation
+603,choice of seat
+604,reservation
+605,reservation
+606,reservation
+607,disabled
+608,reservation
+609,reservation
+610,reservation
+611,choice of seat
+612,reservation
+613,choice of seat
+614,reservation
+615,reservation
+616,disabled
+617,choice of seat
+618,reservation
+619,choice of seat
+620,reservation
+621,reservation
+622,choice of seat
+623,reservation
+624,reservation
+625,reservation
+626,reservation
+627,reservation
+628,disabled
+629,reservation
+630,choice of seat
+631,reservation
+632,reservation
+633,choice of seat
+634,choice of seat
+635,reservation
+636,choice of seat
+637,reservation
+638,choice of seat
+639,reservation
+640,choice of seat
+641,choice of seat
+642,reservation
+643,reservation
+644,choice of seat
+645,reservation
+646,choice of seat
+647,choice of seat
+648,reservation
+649,choice of seat
+650,reservation
+651,choice of seat
+652,reservation
+653,reservation
+654,choice of seat
+655,reservation
+656,choice of seat
+657,reservation
+658,reservation
+659,reservation
+660,reservation
+661,disabled
+662,reservation
+663,choice of seat
+664,choice of seat
+665,choice of seat
+666,disabled
+667,disabled
+668,choice of seat
+669,reservation
+670,choice of seat
+671,choice of seat
+672,reservation
+673,choice of seat
+674,reservation
+675,reservation
+676,reservation
+677,choice of seat
+678,choice of seat
+679,choice of seat
+680,reservation
+681,reservation
+682,choice of seat
+683,reservation
+684,reservation
+685,choice of seat
+686,disabled
+687,reservation
+688,reservation
+689,reservation
+690,reservation
+691,reservation
+692,choice of seat
+693,choice of seat
+694,disabled
+695,reservation
+696,choice of seat
+697,choice of seat
+698,choice of seat
+699,disabled
+700,reservation
+701,choice of seat
+702,reservation
+703,choice of seat
+704,choice of seat
+705,reservation
+706,disabled
+707,reservation
+708,choice of seat
+709,choice of seat
+710,disabled
+711,reservation
+712,disabled
+713,reservation
+714,choice of seat
+715,choice of seat
+716,reservation
+717,choice of seat
+718,reservation
+719,reservation
+720,choice of seat
+721,reservation
+722,reservation
+723,choice of seat
+724,choice of seat
+725,choice of seat
+726,choice of seat
+727,choice of seat
+728,choice of seat
+729,reservation
+730,reservation
+731,reservation
+732,reservation
+733,reservation
+734,reservation
+735,choice of seat
+736,reservation
+737,reservation
+738,reservation
+739,reservation
+740,choice of seat
+741,choice of seat
+742,reservation
+743,disabled
+744,choice of seat
+745,reservation
+746,choice of seat
+747,choice of seat
+748,reservation
+749,reservation
+750,reservation

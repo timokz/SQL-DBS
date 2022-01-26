@@ -1,0 +1,13 @@
+ --order is important
+DROP TRIGGER specialchar;
+DROP PROCEDURE del_theatre;
+DROP TABLE invites;
+DROP TABLE Play;
+DROP TABLE DANCE;
+DROP TABLE BUYS;
+DROP TABLE Audience_Member;
+DROP TABLE Transaction;
+DROP TABLE box_office;
+DROP TABLE TICKET;
+DROP TABLE E_PERFORMANCE;
+DROP TABLE Theatre;
