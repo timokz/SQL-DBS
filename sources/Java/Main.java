@@ -9,9 +9,9 @@ public class Main {
         try {
             // Loads the class "oracle.jdbc.driver.OracleDriver" into the memory
             Class.forName("oracle.jdbc.driver.OracleDriver");
-            String database = "jdbc:oracle:thin:@oracle-lab.cs.univie.ac.at:1521:lab";
-            String user = "a11848158";
-            String pass = "dbs21";
+            String database = "URL_placeholder"
+            String user = "";
+            String pass = "";
             Class.forName("oracle.jdbc.driver.OracleDriver");
             Connection con = DriverManager.getConnection(database, user, pass);
             Statement stmt = con.createStatement();
@@ -96,4 +96,3 @@ public class Main {
 
     }
 }
-

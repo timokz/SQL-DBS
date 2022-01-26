@@ -20,7 +20,7 @@ public class Performance {
         this.LANGUAGE = LANGUAGE;
     }
     public String insertion(){
-        return "INSERT INTO A11848158.E_PERFORMANCE VALUES ('" + P_NAME + "', '" +  t_NAME + "', '"  + P_DATE + "','" + DIRECTION + "','" + LANGUAGE + "')";
+        return "INSERT INTO E_PERFORMANCE VALUES ('" + P_NAME + "', '" +  t_NAME + "', '"  + P_DATE + "','" + DIRECTION + "','" + LANGUAGE + "')";
     }
     public static int statement(Statement stmt) throws SQLException {
 

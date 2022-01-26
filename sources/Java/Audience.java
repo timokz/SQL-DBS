@@ -21,7 +21,7 @@ public class Audience{
     }
 
     public String insertion(){
-        return "INSERT INTO A11848158.Audience_Member VALUES ('" + Customer_ID + "', '" + AGE + "','" + NAME + "','" + DISCOUNT + "','" + TRANSACTION_ID + "')";
+        return "INSERT INTO Audience_Member VALUES ('" + Customer_ID + "', '" + AGE + "','" + NAME + "','" + DISCOUNT + "','" + TRANSACTION_ID + "')";
     }
     public static int statement(Statement stmt) throws SQLException {
 
@@ -33,4 +33,3 @@ public class Audience{
         return rowsAffected;
     }
 }
-

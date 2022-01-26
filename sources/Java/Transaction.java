@@ -19,7 +19,7 @@ public class Transaction {
         this.bname= bname;
     }
     public String insertion(){
-        return "INSERT INTO A11848158.TRANSACTION VALUES (" + TRANSACTION_ID + ", '" + PAYMENT_METHOD + "', timestamp '" + T_DATE + "','" + AMOUNT +  "','" + bname  + "')";
+        return "INSERT INTOTRANSACTION VALUES (" + TRANSACTION_ID + ", '" + PAYMENT_METHOD + "', timestamp '" + T_DATE + "','" + AMOUNT +  "','" + bname  + "')";
     }
     public static int statement(Statement stmt) throws SQLException {
         ArrayList<Transaction> transactions = FileRead.TransactionRead();
