@@ -10,7 +10,7 @@ public class FileRead {
         ArrayList<Theatre> theatres = new ArrayList<>();
 
         try{
-            File TheatreFile = new File("Y:\\a_UNI\\DBS\\Milestones\\M4\\theatre.csv");
+            File TheatreFile = new File("PATH");
             Scanner sc = new Scanner(TheatreFile);
             sc.useDelimiter(";");
 
@@ -30,7 +30,7 @@ public class FileRead {
         ArrayList<Performance> performances = new ArrayList<>();
         try{
 
-            File PerfFile = new File("Y:\\a_UNI\\DBS\\Milestones\\M4\\perf.csv");
+            File PerfFile = new File("PATH");
             BufferedReader br = new BufferedReader(new FileReader(PerfFile));
             String delimit = ",";
             String line;
@@ -58,7 +58,7 @@ public class FileRead {
         ArrayList<Audience> audiences = new ArrayList<>();
 
         try{
-            File PerfFile = new File("Y:\\a_UNI\\DBS\\Milestones\\M4\\audience.csv");
+            File PerfFile = new File("PATH");
             BufferedReader bra = new BufferedReader(new FileReader(PerfFile));
             String delimit = ",";
             String line;
@@ -82,7 +82,7 @@ public class FileRead {
         ArrayList<Ticket> tickets = new ArrayList<>();
 
         try{
-            File TickFile = new File("Y:\\a_UNI\\DBS\\Milestones\\M4\\ticket.csv");
+            File TickFile = new File("PATH");
             BufferedReader brt = new BufferedReader(new FileReader(TickFile));
             String delimit = ",";
             String line;
@@ -110,7 +110,7 @@ public class FileRead {
         ArrayList<Transaction> transactions = new ArrayList<>();
 
         try {
-            File TickFile = new File("Y:\\a_UNI\\DBS\\Milestones\\M4\\transaction.csv");
+            File TickFile = new File("PATH");
             BufferedReader brtr = new BufferedReader(new FileReader(TickFile));
             String delimit = ",";
             String line;
@@ -142,7 +142,7 @@ public class FileRead {
 
         ArrayList<Box_office> offices = new ArrayList<>();
         try{
-            File TickFile = new File("Y:\\a_UNI\\DBS\\Milestones\\M4\\boxoffice.csv");
+            File TickFile = new File("PATH");
             BufferedReader brf = new BufferedReader(new FileReader(TickFile));
             String delimit = ",";
             String line;

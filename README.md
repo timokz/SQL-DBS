@@ -1,5 +1,5 @@
 # DB-Project
- SQL Project with
+ First SQL Project with
  
  HTML, Bootstrap, PHP enabling CRUD from web
  

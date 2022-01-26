@@ -45,7 +45,7 @@ class Ticket{
         P_NAME = p_NAME;
     }
     public String insertion(){
-        return "INSERT INTO A11848158.TICKET VALUES ('"+ TICKET_ID + "','" + SEATING_CATEGORY + "','" + P_NAME  + "')";
+        return "INSERT INTO TICKET VALUES ('"+ TICKET_ID + "','" + SEATING_CATEGORY + "','" + P_NAME  + "')";
     }
     public static int statement(Statement stmt) throws SQLException {
 

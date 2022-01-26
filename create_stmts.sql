@@ -120,7 +120,7 @@ AS
       t_error_code := SQLCODE;
   END del_theatre;
 
-    CREATE TRIGGER specialchar AFTER INSERT ON A11848158.Theatre
+    CREATE TRIGGER specialchar AFTER INSERT ON Theatre
         BEGIN
 UPDATE THEATRE SET T_NAME = REPLACE(T_NAME,'ß','ss');
 UPDATE THEATRE SET ADDRESS = REPLACE(ADDRESS,'ß','ss');
